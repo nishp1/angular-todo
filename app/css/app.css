@@ -1,0 +1,10 @@
+/* app css stylesheet */
+
+ul {
+  list-style: none;
+}
+
+.done-true {
+  text-decoration: line-through;
+  color: gray;
+}
